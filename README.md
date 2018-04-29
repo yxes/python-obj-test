@@ -26,6 +26,7 @@ Thanks for looking at this.
 ```
 $ python -m venv venv
 $ source venv/bin/activate
+$ pip install -e .
 ```
 
 ## RUN
